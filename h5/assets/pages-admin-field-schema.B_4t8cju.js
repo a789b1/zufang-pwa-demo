@@ -1,0 +1,1 @@
+import{d as o,j as p,l as s}from"./index-DljR99nG.js";import{A as e}from"./AdminPcOnly.CQdY01hn.js";import"./AppTopBar.Dq9JjCaO.js";import"./ActionIcon.C22JexSi.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const r=o({__name:"field-schema",setup:o=>(o,r)=>(s(),p(e))});export{r as default};

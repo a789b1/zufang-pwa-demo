@@ -1,7 +1,0 @@
-function __vite__mapDeps(indexes) {
-  if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/components-DemoAdminPreview.CDP-HnL2.js","assets/index-CeVl-a5R.js","assets/index-C61fHUOG.css","assets/AppTopBar.Cn6ebsmH.js","assets/ActionIcon.D8PMsM6N.js","assets/_plugin-vue_export-helper.BCo6x5W8.js","assets/ActionIcon-CoOLT_df.css","assets/AppTopBar-CSHIVLaB.css","assets/DemoAdminPreview-BZVgF6hV.css"]
-  }
-  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
-}
-import{d as a,A as s,l as e,j as t,k as o,w as p,m as n,p as r,n as l,v as _,W as c,_ as d,V as i}from"./index-CeVl-a5R.js";import{A as m}from"./AppTopBar.Cn6ebsmH.js";import{_ as u}from"./_plugin-vue_export-helper.BCo6x5W8.js";const f=u(a({__name:"AdminPcOnly",setup(a){const u=c(()=>d(()=>import("./components-DemoAdminPreview.CDP-HnL2.js"),__vite__mapDeps([0,1,2,3,4,5,6,7,8])));function f(){i({url:"/pages/admin/dashboard"})}return(a,c)=>{const d=r,i=_,A=o;return s(u)?(e(),t(s(u),{key:0})):(e(),t(A,{key:1,class:"page app-viewport pc-only"},{default:p(()=>[n(m,{title:"PC 管理功能",back:""}),n(A,{class:"surface"},{default:p(()=>[n(d,{class:"pc-only-title"},{default:p(()=>[l("请在 PC 管理后台处理")]),_:1}),n(d,null,{default:p(()=>[l("此管理功能统一由 PC 后台提供。移动端保留房源审核、密码审批、统筹和销控入口。")]),_:1}),n(i,{class:"primary-button",onClick:f},{default:p(()=>[l("返回移动管理入口")]),_:1})]),_:1})]),_:1}))}}}),[["__scopeId","data-v-dd650d8c"]]);export{f as A};

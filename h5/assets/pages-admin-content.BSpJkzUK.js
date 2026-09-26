@@ -1,1 +1,0 @@
-import{d as o,j as p,l as t}from"./index-CeVl-a5R.js";import{A as s}from"./AdminPcOnly.Pr8WxqbA.js";import"./AppTopBar.Cn6ebsmH.js";import"./ActionIcon.D8PMsM6N.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const r=o({__name:"content",setup:o=>(o,r)=>(t(),p(s))});export{r as default};
