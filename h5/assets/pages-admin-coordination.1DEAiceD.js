@@ -1,0 +1,1 @@
+import{d as o,j as e,l as i}from"./index-CeVl-a5R.js";import{M as p}from"./MobileReviewWorkspace.DhXdIkvB.js";import"./AppTopBar.Cn6ebsmH.js";import"./ActionIcon.D8PMsM6N.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const r=o({__name:"coordination",setup:o=>(o,r)=>(i(),e(p,{kind:"inventory"}))});export{r as default};

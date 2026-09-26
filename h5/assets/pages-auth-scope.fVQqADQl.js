@@ -1,0 +1,1 @@
+import{d as s,j as o,l as p}from"./index-DljR99nG.js";import{B as e}from"./BusinessScopeWorkspace.CHlSDyiO.js";import"./AppTopBar.Dq9JjCaO.js";import"./ActionIcon.C22JexSi.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const r=s({__name:"scope",setup:s=>(s,r)=>(p(),o(e,{registration:""}))});export{r as default};
