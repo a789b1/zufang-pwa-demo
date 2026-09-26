@@ -1,0 +1,1 @@
+import{d as o,j as p,l as s}from"./index-CMVmJ3u5.js";import{M as r}from"./MobileReviewWorkspace.kWQBk_g4.js";import"./AppTopBar.CNjmXJOo.js";import"./ActionIcon.Cmy5Tpqe.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const a=o({__name:"password-approval",setup:o=>(o,a)=>(s(),p(r,{kind:"password"}))});export{a as default};

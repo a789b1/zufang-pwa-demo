@@ -1,0 +1,1 @@
+import{_ as e}from"./MessagesTab.vue_vue_type_script_setup_true_lang.DKiE-Tbk.js";import"./index-CMVmJ3u5.js";import"./ConversationDirectory.cRgdYb5P.js";import"./messaging.BD-BkTwq.js";import"./people.BUAe64Rp.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";export{e as default};

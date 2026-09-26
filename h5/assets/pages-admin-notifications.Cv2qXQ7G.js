@@ -1,0 +1,1 @@
+import{d as o,j as p,l as s}from"./index-CMVmJ3u5.js";import{A as t}from"./AdminPcOnly.N09F7Bz6.js";import"./AppTopBar.CNjmXJOo.js";import"./ActionIcon.Cmy5Tpqe.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const i=o({__name:"notifications",setup:o=>(o,i)=>(s(),p(t))});export{i as default};

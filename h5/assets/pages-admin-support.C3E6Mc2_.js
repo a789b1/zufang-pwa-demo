@@ -1,0 +1,1 @@
+import{d as p,j as o,l as s}from"./index-CMVmJ3u5.js";import{A as r}from"./AdminPcOnly.N09F7Bz6.js";import"./AppTopBar.CNjmXJOo.js";import"./ActionIcon.Cmy5Tpqe.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const t=p({__name:"support",setup:p=>(p,t)=>(s(),o(r))});export{t as default};
