@@ -1,0 +1,26 @@
+{
+  "id": "/zufang-pwa-demo/h5/zufang-h5",
+  "name": "房源租售助手 H5 · 演示",
+  "short_name": "租售助手",
+  "description": "租客找房、房东发布、中介推广的一站式房产工具。内置仿真数据，不连接真实交易服务。",
+  "lang": "zh-CN",
+  "start_url": "/zufang-pwa-demo/h5/#/pages/main/index",
+  "scope": "/zufang-pwa-demo/h5/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0e7490",
+  "icons": [
+    {
+      "src": "/zufang-pwa-demo/h5/pwa/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/zufang-pwa-demo/h5/pwa/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

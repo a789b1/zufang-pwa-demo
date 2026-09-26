@@ -1,0 +1,26 @@
+{
+  "id": "/zufang-pwa-demo/admin/zufang-admin",
+  "name": "租售助手运营指挥台 · 演示",
+  "short_name": "租售指挥台",
+  "description": "房源租售助手 PC Web 运营后台。内置仿真数据，不连接真实交易服务。",
+  "lang": "zh-CN",
+  "start_url": "/zufang-pwa-demo/admin/#dashboard",
+  "scope": "/zufang-pwa-demo/admin/",
+  "display": "standalone",
+  "background_color": "#1e1435",
+  "theme_color": "#b75b2b",
+  "icons": [
+    {
+      "src": "/zufang-pwa-demo/admin/pwa/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/zufang-pwa-demo/admin/pwa/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

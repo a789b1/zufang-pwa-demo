@@ -1,0 +1,1 @@
+import{d as o,j as p,l as r}from"./index-CeVl-a5R.js";import{A as s}from"./AdminPcOnly.Pr8WxqbA.js";import"./AppTopBar.Cn6ebsmH.js";import"./ActionIcon.D8PMsM6N.js";import"./_plugin-vue_export-helper.BCo6x5W8.js";const t=o({__name:"promotion",setup:o=>(o,t)=>(r(),p(s))});export{t as default};
